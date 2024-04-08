@@ -8,6 +8,10 @@
 # testing
 /coverage
 
+
+/public/design
+README-template.md
+style-guide.md
 # production
 /build
 
